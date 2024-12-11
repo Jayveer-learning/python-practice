@@ -1,0 +1,1 @@
+Tn this mode we can reaqd and write the text.

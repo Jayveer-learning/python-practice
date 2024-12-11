@@ -1,0 +1,1 @@
+This file write using python file method. this data written is append mode

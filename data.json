@@ -1,0 +1,14 @@
+{
+    "name": "john",
+    "age": 30,
+    "is_student": "True",
+    "subject": [
+        "maths",
+        "physics",
+        "chemistry"
+    ],
+    "address": {
+        "streert": "123 main st",
+        "city": "New York"
+    }
+}

@@ -1,0 +1,1 @@
+In this mode we can read and write the text. This text is written in a+ mode.
